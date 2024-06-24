@@ -2,7 +2,7 @@
     {
         "image": "assets/images/Quote Generator.jpeg",
         "title": "Quote Generator",
-        "description": "Quote Generator is a simple web application that generates random quotes. It uses an API to get the quotes. It also has a button to share the quote on 𝕏 (formelly Twitter).",
+        "description": "Quote Generator is a web app that generates random quotes via an API and allows sharing on 𝕏 (formerly Twitter).",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Quote%20Generator",
         "liveDemoLink": "./projects/Quote Generator/index.html"
     },

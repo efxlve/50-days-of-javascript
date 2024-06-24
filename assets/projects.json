@@ -1,0 +1,23 @@
+[
+    {
+        "image": "assets/images/Quote Generator.jpeg",
+        "title": "Quote Generator",
+        "description": "Quote Generator is a simple web application that generates random quotes. It uses an API to get the quotes. It also has a button to share the quote on 𝕏 (formelly Twitter).",
+        "sourceCodeLink": "../projects/Quote Generator",
+        "liveDemoLink": "../projects/Quote Generator/index.html"
+    },
+    {
+        "image": "assets/images/Quote Generator.jpeg",
+        "title": "Project 2",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde vero iste nihil veniam.",
+        "sourceCodeLink": "#",
+        "liveDemoLink": "#"
+    },
+    {
+        "image": "assets/images/Quote Generator.jpeg",
+        "title": "Project 3",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde vero iste nihil veniam.",
+        "sourceCodeLink": "#",
+        "liveDemoLink": "#"
+    }
+]

@@ -7,11 +7,11 @@
         "liveDemoLink": "./projects/Quote Generator/index.html"
     },
     {
-        "image": "assets/images/Quote Generator.jpeg",
-        "title": "Project 2",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde vero iste nihil veniam.",
-        "sourceCodeLink": "#",
-        "liveDemoLink": "#"
+        "image": "assets/images/Infinite Scroll.jpeg",
+        "title": "Infinite Scroll",
+        "description": "Infinite Scroll is a web app that fetches random images via an API.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Infinite%20Scroll",
+        "liveDemoLink": "./projects/Infinite Scroll/index.html"
     },
     {
         "image": "assets/images/Quote Generator.jpeg",

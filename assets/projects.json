@@ -14,10 +14,10 @@
         "liveDemoLink": "./projects/Infinite Scroll/index.html"
     },
     {
-        "image": "assets/images/Quote Generator.jpeg",
-        "title": "Project 3",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde vero iste nihil veniam.",
-        "sourceCodeLink": "#",
-        "liveDemoLink": "#"
+        "image": "assets/images/Joke Teller.jpeg",
+        "title": "Joke Teller",
+        "description": "This joke teller app fetches jokes from JokeAPI and reads them aloud using ResponsiveVoice API.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Joke%20Teller",
+        "liveDemoLink": "./projects/Joke Teller/index.html"
     }
 ]

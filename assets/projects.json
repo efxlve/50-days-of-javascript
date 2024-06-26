@@ -26,5 +26,12 @@
         "description": "Picture in Picture lets you watch videos in a floating window while using other apps or sites. It uses the Screen Capture API to capture your screen and the Picture in Picture API to display the video.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Picture%20in%20Picture",
         "liveDemoLink": "./projects/Picture in Picture/index.html"
+    },
+    {
+        "image": "assets/images/Light-Dark Mode.jpeg",
+        "title": "Light & Dark Mode",
+        "description": "This light and dark mode switcher uses the localStorage API to save your preference.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Light-Dark%20Mode",
+        "liveDemoLink": "./projects/Light-Dark Mode/index.html"
     }
 ]

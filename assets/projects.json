@@ -33,5 +33,12 @@
         "description": "This light and dark mode switcher uses the localStorage API to save your preference.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Light-Dark%20Mode",
         "liveDemoLink": "./projects/Light-Dark Mode/index.html"
+    },
+    {
+        "image": "assets/images/Animated Template.jpeg",
+        "title": "Animated Template",
+        "description": "This project is an animated template using the AOS library and Creative Tim Tailwind Starter Kit.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Animated%20Template",
+        "liveDemoLink": "./projects/Animated Template/index.html"
     }
 ]

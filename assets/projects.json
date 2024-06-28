@@ -54,5 +54,12 @@
         "description": "Music Player is a simple app that plays music from your local storage.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Music%20Player",
         "liveDemoLink": "./projects/Music Player/index.html"
+    },
+    {
+        "image": "assets/images/Video Player.jpeg",
+        "title": "Video Player",
+        "description": "This project creates a custom video player using HTML, CSS, and JavaScript. It supports play, pause, volume control, full screen, fast-forward, and rewind.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Video%20Player",
+        "liveDemoLink": "./projects/Video Player/index.html"
     }
 ]

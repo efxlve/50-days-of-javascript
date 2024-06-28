@@ -40,5 +40,12 @@
         "description": "This project is an animated template using the AOS library and Creative Tim Tailwind Starter Kit.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Animated%20Template",
         "liveDemoLink": "./projects/Animated Template/index.html"
+    },
+    {
+        "image": "assets/images/Animated Navigation.jpeg",
+        "title": "Animated Navigation",
+        "description": "This project creates an animated, responsive navigation with a floating action button that changes CSS variables.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Animated%20Navigation",
+        "liveDemoLink": "./projects/Animated Navigation/index.html"
     }
 ]

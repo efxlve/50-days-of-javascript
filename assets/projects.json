@@ -16,14 +16,14 @@
     {
         "image": "assets/images/Joke Teller.jpeg",
         "title": "Joke Teller",
-        "description": "This joke teller app fetches jokes from JokeAPI and reads them aloud using ResponsiveVoice API.",
+        "description": "Joke teller is a app fetches jokes from JokeAPI and reads them aloud using ResponsiveVoice API.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Joke%20Teller",
         "liveDemoLink": "./projects/Joke Teller/index.html"
     },
     {
         "image": "assets/images/Picture in Picture.jpeg",
         "title": "Picture in Picture",
-        "description": "Picture in Picture lets you watch videos in a floating window while using other apps or sites. It uses the Screen Capture API to capture your screen and the Picture in Picture API to display the video.",
+        "description": "Picture in Picture allows you to watch videos in a floating window while multitasking across apps or sites. It utilizes the Screen Capture API to capture your screen and the Picture in Picture API to display the video.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Picture%20in%20Picture",
         "liveDemoLink": "./projects/Picture in Picture/index.html"
     },
@@ -37,14 +37,14 @@
     {
         "image": "assets/images/Animated Template.jpeg",
         "title": "Animated Template",
-        "description": "This project is an animated template using the AOS library and Creative Tim Tailwind Starter Kit.",
+        "description": "This app is an animated template using the AOS library and Creative Tim Tailwind Starter Kit.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Animated%20Template",
         "liveDemoLink": "./projects/Animated Template/index.html"
     },
     {
         "image": "assets/images/Animated Navigation.jpeg",
         "title": "Animated Navigation",
-        "description": "This project creates an animated, responsive navigation with a floating action button that changes CSS variables.",
+        "description": "This app creates an animated, responsive navigation with a floating action button that changes CSS variables.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Animated%20Navigation",
         "liveDemoLink": "./projects/Animated Navigation/index.html"
     },
@@ -58,8 +58,15 @@
     {
         "image": "assets/images/Video Player.jpeg",
         "title": "Video Player",
-        "description": "This project creates a custom video player using HTML, CSS, and JavaScript. It supports play, pause, volume control, full screen, fast-forward, and rewind.",
+        "description": "This app creates a custom video player. It supports play, pause, volume control, full screen, fast-forward, and rewind.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Video%20Player",
         "liveDemoLink": "./projects/Video Player/index.html"
+    },
+    {
+        "image": "assets/images/Custom Countdown.jpeg",
+        "title": "Custom Countdown",
+        "description": "A simple countdown timer that can be set to any date.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Custom%20Countdown",
+        "liveDemoLink": "./projects/Custom Countdown/index.html"
     }
 ]

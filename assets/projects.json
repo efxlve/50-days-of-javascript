@@ -68,5 +68,13 @@
         "description": "A simple countdown timer that can be set to any date.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Custom%20Countdown",
         "liveDemoLink": "./projects/Custom Countdown/index.html"
+    },
+    {
+        "image": "assets/images/Bookmark Keeper.jpeg",
+        "title": "Bookmark Keeper",
+        "description": "Bookmark Keeper is a web app that saves your bookmarks in your browser's local storage.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Bookmark%20Keeper",
+        "liveDemoLink": "./projects/Bookmark Keeper/index.html"
     }
+    
 ]

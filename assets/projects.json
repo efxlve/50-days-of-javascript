@@ -75,6 +75,12 @@
         "description": "Bookmark Keeper is a web app that saves your bookmarks in your browser's local storage.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Bookmark%20Keeper",
         "liveDemoLink": "./projects/Bookmark Keeper/index.html"
+    },
+    {
+        "image": "assets/images/Form Validation.jpeg",
+        "title": "Form Validation",
+        "description": "This project aims to understand the functionality and style of a simple form validation. Ensures that fields such as email, password, and username meet specified criteria such as valid format, length, and non-empty status.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Form%20Validation",
+        "liveDemoLink": "./projects/Form Validation/index.html"
     }
-    
 ]

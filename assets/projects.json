@@ -96,5 +96,12 @@
         "description": "This project fetches pictures from the NASA website using the NASA API, utilizing the `fetch` API and `async/await` for handling responses.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/NASA%20API%20Pictures",
         "liveDemoLink": "./projects/NASA API Pictures/index.html"
+    },
+    {
+        "image": "assets/images/Paint.jpeg",
+        "title": "Paint",
+        "description": "Paint is a clone of the classic Windows Paint application, featuring basic functionalities like drawing, color selection, brush size adjustment, and saving.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Paint",
+        "liveDemoLink": "./projects/Paint/index.html"
     }
 ]

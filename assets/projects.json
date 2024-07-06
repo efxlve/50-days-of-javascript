@@ -117,5 +117,12 @@
         "description": "This is Kanban board with drag and drop functionality to organize tasks into columns.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Drag%20and%20Drop",
         "liveDemoLink": "./projects/Drag and Drop/index.html"
+    },
+    {
+        "image": "assets/images/Calculator.jpeg",
+        "title": "Calculator",
+        "description": "This is a simple calculator.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Calculator",
+        "liveDemoLink": "./projects/Calculator/index.html"
     }
 ]

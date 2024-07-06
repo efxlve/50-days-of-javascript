@@ -132,6 +132,16 @@ main {
     font-size: 1.7em;
 }
 
+a {
+    color: #ffffffa6;
+    font-size: 1em;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #ffa5ff;
+}
+
 @media (max-width: 768px) {
     .project {
         width: calc(50% - 2em);

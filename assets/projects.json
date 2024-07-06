@@ -82,5 +82,12 @@
         "description": "This project aims to understand the functionality and style of a simple form validation. Ensures that fields such as email, password, and username meet specified criteria such as valid format, length, and non-empty status.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Form%20Validation",
         "liveDemoLink": "./projects/Form Validation/index.html"
+    },
+    {
+        "image": "assets/images/Spock Rock Game.jpeg",
+        "title": "Rock Paper Scissors Lizard Spock Game",
+        "description": "This is a simple Rock Paper Scissors Lizard Spock game.<br><br><strong>How to Play:</strong><br>1. Choose your move by clicking on one of the buttons.<br>2. The computer will randomly choose its move.<br>3. The winner will be determined based on the rules found <a href=\"https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock\" target=\"_blank\">here</a>.<br>4. Click the \"Play Again\" button to start a new game.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Spock%20Rock%20Game",
+        "liveDemoLink": "./projects/Spock Rock Game/index.html"
     }
 ]

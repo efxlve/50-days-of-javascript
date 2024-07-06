@@ -138,5 +138,12 @@
         "description": "Math Sprint Game tests your multiplication skills by presenting questions that require quick and accurate answers. Tap the correct option to respond to the questions displayed on the screen. You can select from 10, 25, 50, or 99 questions per session and track your best scores for each option.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Math%20Sprint%20Game",
         "liveDemoLink": "./projects/Math Sprint Game/index.html"
+    },
+    {
+        "image": "assets/images/Exchange Rate Calculator.jpeg",
+        "title": "Exchange Rate Calculator",
+        "description": "Select countries to get the exchange rate for a specific amount, using the Exchange Rate API.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Exchange%20Rate%20Calculator",
+        "liveDemoLink": "./projects/Exchange Rate Calculator/index.html"
     }
 ]

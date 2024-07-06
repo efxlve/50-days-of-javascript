@@ -124,5 +124,19 @@
         "description": "This is a simple calculator.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Calculator",
         "liveDemoLink": "./projects/Calculator/index.html"
+    },
+    {
+        "image": "assets/images/Splash Page.jpeg",
+        "title": "Splash Page",
+        "description": "This project is a simple splash page. It provides users with a dynamic experience through background color options. JavaScript enables users to change the background color interactively.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Splash%20Page",
+        "liveDemoLink": "./projects/Splash Page/index.html"
+    },
+    {
+        "image": "assets/images/Math Sprint Game.jpeg",
+        "title": "Math Sprint Game",
+        "description": "Math Sprint Game tests your multiplication skills by presenting questions that require quick and accurate answers. Tap the correct option to respond to the questions displayed on the screen. You can select from 10, 25, 50, or 99 questions per session and track your best scores for each option.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Math%20Sprint%20Game",
+        "liveDemoLink": "./projects/Math Sprint Game/index.html"
     }
 ]

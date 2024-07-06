@@ -103,5 +103,12 @@
         "description": "Paint is a clone of the classic Windows Paint application, featuring basic functionalities like drawing, color selection, brush size adjustment, and saving.",
         "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Paint",
         "liveDemoLink": "./projects/Paint/index.html"
+    },
+    {
+        "image": "assets/images/Pong Game.jpeg",
+        "title": "Pong Game",
+        "description": "The Pong game operates on an HTML canvas and offers interactive gameplay with the following features:<br><br>- Two paddles: one controlled by the player and the other by the computer, displayed on the canvas.<br>- Horizontal movement of paddles to interact with a vertically moving ball.<br>- Ball changes direction upon hitting paddles or canvas walls.<br>- Tracks scores for both player and computer, ending when one reaches a winning score.<br>- Declares either 'Player' or 'Computer' as the winner upon game completion, with an option to play again.",
+        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Pong%20Game",
+        "liveDemoLink": "./projects/Pong Game/index.html"
     }
 ]

@@ -3,147 +3,147 @@
         "image": "assets/images/Quote Generator.jpeg",
         "title": "Quote Generator",
         "description": "Quote Generator is a web app that generates random quotes via an API and allows sharing on 𝕏 (formerly Twitter).",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Quote%20Generator",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Quote%20Generator",
         "liveDemoLink": "./projects/Quote Generator/index.html"
     },
     {
         "image": "assets/images/Infinite Scroll.jpeg",
         "title": "Infinite Scroll",
         "description": "Infinite Scroll is a web app that fetches random images via an API.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Infinite%20Scroll",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Infinite%20Scroll",
         "liveDemoLink": "./projects/Infinite Scroll/index.html"
     },
     {
         "image": "assets/images/Joke Teller.jpeg",
         "title": "Joke Teller",
         "description": "Joke teller is a app fetches jokes from JokeAPI and reads them aloud using ResponsiveVoice API.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Joke%20Teller",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Joke%20Teller",
         "liveDemoLink": "./projects/Joke Teller/index.html"
     },
     {
         "image": "assets/images/Picture in Picture.jpeg",
         "title": "Picture in Picture",
         "description": "Picture in Picture allows you to watch videos in a floating window while multitasking across apps or sites. It utilizes the Screen Capture API to capture your screen and the Picture in Picture API to display the video.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Picture%20in%20Picture",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Picture%20in%20Picture",
         "liveDemoLink": "./projects/Picture in Picture/index.html"
     },
     {
         "image": "assets/images/Light-Dark Mode.jpeg",
         "title": "Light & Dark Mode",
         "description": "This light and dark mode switcher uses the localStorage API to save your preference.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Light-Dark%20Mode",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Light-Dark%20Mode",
         "liveDemoLink": "./projects/Light-Dark Mode/index.html"
     },
     {
         "image": "assets/images/Animated Template.jpeg",
         "title": "Animated Template",
         "description": "This app is an animated template using the AOS library and Creative Tim Tailwind Starter Kit.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Animated%20Template",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Animated%20Template",
         "liveDemoLink": "./projects/Animated Template/index.html"
     },
     {
         "image": "assets/images/Animated Navigation.jpeg",
         "title": "Animated Navigation",
         "description": "This app creates an animated, responsive navigation with a floating action button that changes CSS variables.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Animated%20Navigation",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Animated%20Navigation",
         "liveDemoLink": "./projects/Animated Navigation/index.html"
     },
     {
         "image": "assets/images/Music Player.jpeg",
         "title": "Music Player",
         "description": "Music Player is a simple app that plays music from your local storage.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Music%20Player",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Music%20Player",
         "liveDemoLink": "./projects/Music Player/index.html"
     },
     {
         "image": "assets/images/Video Player.jpeg",
         "title": "Video Player",
         "description": "This app creates a custom video player. It supports play, pause, volume control, full screen, fast-forward, and rewind.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Video%20Player",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Video%20Player",
         "liveDemoLink": "./projects/Video Player/index.html"
     },
     {
         "image": "assets/images/Custom Countdown.jpeg",
         "title": "Custom Countdown",
         "description": "A simple countdown timer that can be set to any date.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Custom%20Countdown",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Custom%20Countdown",
         "liveDemoLink": "./projects/Custom Countdown/index.html"
     },
     {
         "image": "assets/images/Bookmark Keeper.jpeg",
         "title": "Bookmark Keeper",
         "description": "Bookmark Keeper is a web app that saves your bookmarks in your browser's local storage.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Bookmark%20Keeper",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Bookmark%20Keeper",
         "liveDemoLink": "./projects/Bookmark Keeper/index.html"
     },
     {
         "image": "assets/images/Form Validation.jpeg",
         "title": "Form Validation",
         "description": "This project aims to understand the functionality and style of a simple form validation. Ensures that fields such as email, password, and username meet specified criteria such as valid format, length, and non-empty status.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Form%20Validation",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Form%20Validation",
         "liveDemoLink": "./projects/Form Validation/index.html"
     },
     {
         "image": "assets/images/Spock Rock Game.jpeg",
         "title": "Rock Paper Scissors Lizard Spock Game",
         "description": "This is a simple Rock Paper Scissors Lizard Spock game.<br><br><strong>How to Play:</strong><br>1. Choose your move by clicking on one of the buttons.<br>2. The computer will randomly choose its move.<br>3. The winner will be determined based on the rules found <a href=\"https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock\" target=\"_blank\">here</a>.<br>4. Click the \"Play Again\" button to start a new game.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Spock%20Rock%20Game",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Spock%20Rock%20Game",
         "liveDemoLink": "./projects/Spock Rock Game/index.html"
     },
     {
         "image": "assets/images/NASA API Pictures.jpeg",
         "title": "NASA API Pictures",
         "description": "This project fetches pictures from the NASA website using the NASA API, utilizing the `fetch` API and `async/await` for handling responses.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/NASA%20API%20Pictures",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/NASA%20API%20Pictures",
         "liveDemoLink": "./projects/NASA API Pictures/index.html"
     },
     {
         "image": "assets/images/Paint.jpeg",
         "title": "Paint",
         "description": "Paint is a clone of the classic Windows Paint application, featuring basic functionalities like drawing, color selection, brush size adjustment, and saving.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Paint",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Paint",
         "liveDemoLink": "./projects/Paint/index.html"
     },
     {
         "image": "assets/images/Pong Game.jpeg",
         "title": "Pong Game",
         "description": "The Pong game operates on an HTML canvas and offers interactive gameplay with the following features:<br><br>- Two paddles: one controlled by the player and the other by the computer, displayed on the canvas.<br>- Horizontal movement of paddles to interact with a vertically moving ball.<br>- Ball changes direction upon hitting paddles or canvas walls.<br>- Tracks scores for both player and computer, ending when one reaches a winning score.<br>- Declares either 'Player' or 'Computer' as the winner upon game completion, with an option to play again.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Pong%20Game",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Pong%20Game",
         "liveDemoLink": "./projects/Pong Game/index.html"
     },
     {
         "image": "assets/images/Drag and Drop.jpeg",
         "title": "Drag and Drop",
         "description": "This is Kanban board with drag and drop functionality to organize tasks into columns.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Drag%20and%20Drop",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Drag%20and%20Drop",
         "liveDemoLink": "./projects/Drag and Drop/index.html"
     },
     {
         "image": "assets/images/Calculator.jpeg",
         "title": "Calculator",
         "description": "This is a simple calculator.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Calculator",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Calculator",
         "liveDemoLink": "./projects/Calculator/index.html"
     },
     {
         "image": "assets/images/Splash Page.jpeg",
         "title": "Splash Page",
         "description": "This project is a simple splash page. It provides users with a dynamic experience through background color options. JavaScript enables users to change the background color interactively.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Splash%20Page",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Splash%20Page",
         "liveDemoLink": "./projects/Splash Page/index.html"
     },
     {
         "image": "assets/images/Math Sprint Game.jpeg",
         "title": "Math Sprint Game",
         "description": "Math Sprint Game tests your multiplication skills by presenting questions that require quick and accurate answers. Tap the correct option to respond to the questions displayed on the screen. You can select from 10, 25, 50, or 99 questions per session and track your best scores for each option.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Math%20Sprint%20Game",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Math%20Sprint%20Game",
         "liveDemoLink": "./projects/Math Sprint Game/index.html"
     },
     {
         "image": "assets/images/Exchange Rate Calculator.jpeg",
         "title": "Exchange Rate Calculator",
         "description": "Select countries to get the exchange rate for a specific amount, using the Exchange Rate API.",
-        "sourceCodeLink": "https://github.com/efxlve/100-days-of-javascript/tree/main/projects/Exchange%20Rate%20Calculator",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Exchange%20Rate%20Calculator",
         "liveDemoLink": "./projects/Exchange Rate Calculator/index.html"
     }
 ]

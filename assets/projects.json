@@ -152,5 +152,12 @@
         "description": "This project contains JavaScript code that creates a spinning donut animation using ASCII characters.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/ASCII%20Donut%20Animation",
         "liveDemoLink": "./projects/ASCII Donut Animation/index.html"
+    },
+    {
+        "image": "assets/images/Background Generator.jpeg",
+        "title": "Background Generator",
+        "description": "This simple app allows users to select two colors using a color picker to generate a linear gradient background. It displays the CSS code for the gradient on the screen, which users can copy to the clipboard with a click. Additionally, users can generate a new gradient by clicking the generate button.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Background%20Generator",
+        "liveDemoLink": "./projects/Background Generator/index.html"
     }
 ]

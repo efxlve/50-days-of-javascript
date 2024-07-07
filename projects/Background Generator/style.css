@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(to right, rgb(37, 222, 171), rgb(126, 86, 234));
+    color: #ffffff;
+    text-align: center;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 1em;
+    font-weight: 600;
+    cursor: context-menu;
+}
+
+input[type="color"] {
+    margin: 0 5px;
+    padding: 5px;
+    border: 1px solid #fff;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.3s ease;
+    height: 40px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+input[type="color"]:hover {
+    border-color: #ccc;
+}
+
+button {
+    font-size: 1em;
+    color: #fff;
+    background: none;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+    outline: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #1e1e1e;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-top: 1.5em;
+    font-weight: 500;
+    cursor: context-menu;
+}
+
+h3 {
+    font-size: 1em;
+    margin-top: 0.5em;
+    font-weight: 400;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+h3:hover {
+    color: #ccc;
+}

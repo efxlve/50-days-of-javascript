@@ -166,5 +166,12 @@
         "description": "This is a simple password generator app. Users can select a password length from 8 to 128 characters and choose to include uppercase letters, lowercase letters, numbers, and symbols. The app generates a random password based on these preferences, displays it on the screen, and allows users to copy it to the clipboard with a click. Users can generate a new password by clicking the generate button.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Password%20Generator",
         "liveDemoLink": "./projects/Password Generator/index.html"
+    },
+    {
+        "image": "assets/images/QR Code Generator.jpeg",
+        "title": "QR Code Generator",
+        "description": "This simple QR Code generator app, allows users to enter a URL and generate a QR code for it. Users can download the QR code as a PNG file, change its color and background color, adjust its size, and share the QR code.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/QR%20Code%20Generator",
+        "liveDemoLink": "./projects/QR Code Generator/index.html"
     }
 ]

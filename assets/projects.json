@@ -173,5 +173,12 @@
         "description": "This simple QR Code generator app, allows users to enter a URL and generate a QR code for it. Users can download the QR code as a PNG file, change its color and background color, adjust its size, and share the QR code.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/QR%20Code%20Generator",
         "liveDemoLink": "./projects/QR Code Generator/index.html"
+    },
+    {
+        "image": "assets/images/Pixel Art Generator.jpeg",
+        "title": "Pixel Art Generator",
+        "description": "This project provides a simple and fun interface for creating pixel art. Users can select colors from a palette to paint pixels on a grid, adjust the grid size to increase or decrease the canvas area, and clear the entire canvas to start a new pixel art creation.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Pixel%20Art%20Generator",
+        "liveDemoLink": "./projects/Pixel Art Generator/index.html"
     }
 ]

@@ -80,6 +80,18 @@ input[type="color"]::-moz-color-swatch {
 }
 
 @media only screen and (max-width: 768px) {
+    .wrapper {
+        width: 80vmin;
+    }
+
+    .opt-wrapper {
+        flex-direction: column;
+    }
+
+    .opt-wrapper button {
+        margin: 5px;
+    }
+
     .gridCol {
         height: 0.8em;
         width: 0.8em;

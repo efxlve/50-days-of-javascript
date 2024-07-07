@@ -159,5 +159,12 @@
         "description": "This simple app allows users to select two colors using a color picker to generate a linear gradient background. It displays the CSS code for the gradient on the screen, which users can copy to the clipboard with a click. Additionally, users can generate a new gradient by clicking the generate button.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Background%20Generator",
         "liveDemoLink": "./projects/Background Generator/index.html"
+    },
+    {
+        "image": "assets/images/Password Generator.jpeg",
+        "title": "Password Generator",
+        "description": "This is a simple password generator app. Users can select a password length from 8 to 128 characters and choose to include uppercase letters, lowercase letters, numbers, and symbols. The app generates a random password based on these preferences, displays it on the screen, and allows users to copy it to the clipboard with a click. Users can generate a new password by clicking the generate button.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Password%20Generator",
+        "liveDemoLink": "./projects/Password Generator/index.html"
     }
 ]

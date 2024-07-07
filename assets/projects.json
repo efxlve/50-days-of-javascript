@@ -145,5 +145,12 @@
         "description": "Select countries to get the exchange rate for a specific amount, using the Exchange Rate API.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Exchange%20Rate%20Calculator",
         "liveDemoLink": "./projects/Exchange Rate Calculator/index.html"
+    },
+    {
+        "image": "assets/images/ASCII Donut Animation.jpeg",
+        "title": "ASCII Donut Animation",
+        "description": "This project contains JavaScript code that creates a spinning donut animation using ASCII characters.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/ASCII%20Donut%20Animation",
+        "liveDemoLink": "./projects/ASCII Donut Animation/index.html"
     }
 ]

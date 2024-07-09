@@ -208,5 +208,26 @@
         "description": "This simple translator app uses the MyMemory API to provide translations. Users can type a word and see its translation.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Translator",
         "liveDemoLink": "./projects/Translator/index.html"
+    },
+    {
+        "image": "assets/images/Snake Game.jpeg",
+        "title": "Snake Game",
+        "description": "The Snake game is a simple game played with arrow keys. The snake moves and changes direction with the arrow keys, eats food to grow, and the game ends if the snake hits the wall or itself. Users can also view their scores.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Snake%20Game",
+        "liveDemoLink": "./projects/Snake Game/index.html"
+    },
+    {
+        "image": "assets/images/Type Test.jpeg",
+        "title": "Type Test",
+        "description": "This simple type test app uses the Quotable API. Users can type words and see if they are correct, view the number of correct and incorrect words typed, and see the accuracy of their typing.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Type%20Test",
+        "liveDemoLink": "./projects/Type Test/index.html"
+    },
+    {
+        "image": "assets/images/Speak Number Guess.jpeg",
+        "title": "Speak Number Guess",
+        "description": "This number guessing game uses the speech recognition API. Users speak their guess into the microphone, and the app processes the guess to check if it's correct. The UI guides the user to speak their guess and provides feedback on whether the guess is higher, lower, a match, or not a number.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Speak%20Number%20Guess",
+        "liveDemoLink": "./projects/Speak Number Guess/index.html"
     }
 ]

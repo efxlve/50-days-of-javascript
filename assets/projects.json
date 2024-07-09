@@ -236,5 +236,12 @@
         "description": "This simple text-to-speech app allows users to write text and listen to it. Users can also change the language of the text.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Text%20To%20Speech",
         "liveDemoLink": "./projects/Text To Speech/index.html"
+    },
+    {
+        "image": "assets/images/Todo List.jpeg",
+        "title": "Todo List",
+        "description": "This simple todo list allows users to add todos, mark todos as pending, and view all todos.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Todo%20List",
+        "liveDemoLink": "./projects/Todo List/index.html"
     }
 ]

@@ -243,5 +243,19 @@
         "description": "This simple todo list allows users to add todos, mark todos as pending, and view all todos.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Todo%20List",
         "liveDemoLink": "./projects/Todo List/index.html"
+    },
+    {
+        "image": "assets/images/Expense Tracker.jpeg",
+        "title": "Expense Tracker",
+        "description": "This expense tracker helps you keep track of income and expenses. It features a UI to display transaction items, show balance, expense, and income totals, add new transactions, delete items from the list, and persist data to local storage.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Expense%20Tracker",
+        "liveDemoLink": "./projects/Expense Tracker/index.html"
+    },
+    {
+        "image": "assets/images/Memory Cards.jpeg",
+        "title": "Memory Cards",
+        "description": "This memory cards allows users to view, add, and remove memory cards containing questions and answers. It uses CSS to create interactive flip cards and provides an 'Add new card' overlay with a form for inputting new cards. Cards display questions and reveal answers when clicked. Users can navigate between previous and next cards, and new cards are stored in local storage with an option to clear all stored cards.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Memory%20Cards",
+        "liveDemoLink": "./projects/Memory Cards/index.html"
     }
 ]

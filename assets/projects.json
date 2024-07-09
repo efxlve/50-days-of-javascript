@@ -271,5 +271,12 @@
         "description": "This project is a simple web application that shortens URLs using the TinyURL API. Users input a URL and click 'Short It' to generate a shortened URL, which is displayed in a textarea. Clicking 'Reload' refreshes the page and clears inputs.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Url%20Shortner",
         "liveDemoLink": "./projects/Url Shortner/index.html"
+    },
+    {
+        "image": "assets/images/Chess Game.jpeg",
+        "title": "Chess Game",
+        "description": "Here's a simple web application developed for the game of chess. The application allows users to check for checkmate, flip the board, and set custom positions. It's built using CSS and JavaScript for board functionality, utilizing jQuery and Chess.js libraries. The interface is user-friendly, providing automatic updates to the board as the game progresses.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Chess%20Game",
+        "liveDemoLink": "./projects/Chess Game/index.html"
     }
 ]

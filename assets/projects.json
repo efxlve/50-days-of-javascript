@@ -229,5 +229,12 @@
         "description": "This number guessing game uses the speech recognition API. Users speak their guess into the microphone, and the app processes the guess to check if it's correct. The UI guides the user to speak their guess and provides feedback on whether the guess is higher, lower, a match, or not a number.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Speak%20Number%20Guess",
         "liveDemoLink": "./projects/Speak Number Guess/index.html"
+    },
+    {
+        "image": "assets/images/Text To Speech.jpeg",
+        "title": "Text To Speech",
+        "description": "This simple text-to-speech app allows users to write text and listen to it. Users can also change the language of the text.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Text%20To%20Speech",
+        "liveDemoLink": "./projects/Text To Speech/index.html"
     }
 ]

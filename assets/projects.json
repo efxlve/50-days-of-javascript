@@ -278,5 +278,12 @@
         "description": "Here's a simple web application developed for the game of chess. The application allows users to check for checkmate, flip the board, and set custom positions. It's built using CSS and JavaScript for board functionality, utilizing jQuery and Chess.js libraries. The interface is user-friendly, providing automatic updates to the board as the game progresses.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Chess%20Game",
         "liveDemoLink": "./projects/Chess Game/index.html"
+    },
+    {
+        "image": "assets/images/Device Battery Detector.jpeg",
+        "title": "Device Battery Detector",
+        "description": "This simple device battery detector app allows users to view the battery level and charging status of their device.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Device%20Battery%20Detector",
+        "liveDemoLink": "./projects/Device Battery Detector/index.html"
     }
 ]

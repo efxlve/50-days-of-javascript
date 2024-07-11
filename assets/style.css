@@ -138,13 +138,13 @@ main {
 }
 
 a {
-    color: #ffffffa6;
+    color: #969595a6;
     font-size: 1em;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #ffa5ff;
+    color: #fc9afc;
 }
 
 @media (max-width: 768px) {

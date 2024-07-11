@@ -8,11 +8,20 @@ body {
     padding: 0;
 }
 
-header, footer {
+header {
     text-align: center;
     padding: 1em 0;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.3);
     color: #333333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: #333333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 main {
@@ -55,7 +64,7 @@ main {
     padding: 1em;
     width: 50%;
     text-align: center;
-    transition: box-shadow, transform 0.3s ease;
+    transition: box-shadow 0.2s ease, transform 0.3s ease;
 }
 
 .project img {
@@ -76,6 +85,7 @@ main {
 
 .project:hover {
     transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .btn-code, .btn-live {

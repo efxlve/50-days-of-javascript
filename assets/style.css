@@ -8,20 +8,12 @@ body {
     padding: 0;
 }
 
-header {
+header, footer {
     text-align: center;
     padding: 1em 0;
     background-color: rgba(255, 255, 255, 0.3);
     color: #333333;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-footer {
-    text-align: center;
-    padding: 1em 0;
-    background-color: rgba(255, 255, 255, 0.3);
-    color: #333333;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 main {
@@ -44,11 +36,12 @@ main {
     background-color: #ffffff;
     color: #1f1f1f;
     outline: none;
-    transition: box-shadow 0.3s ease;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
 
 .search-box input:focus {
-    box-shadow: 0 0 5px rgba(255, 165, 255, 0.8);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);;
+    transform: scale(1.05);
 }
 
 .projects {
@@ -85,7 +78,7 @@ main {
 
 .project:hover {
     transform: scale(1.05);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);;
 }
 
 .btn-code, .btn-live {

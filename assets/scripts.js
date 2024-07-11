@@ -17,8 +17,8 @@ document.addEventListener("DOMContentLoaded", function() {
                         <img src="${project.image}" alt="${project.title}">
                         <h2>${project.title}</h2>
                         <p>${project.description}</p>
-                        <button class="btn-code" onclick="window.open('${project.sourceCodeLink}', '_blank')">Source Code</button>
-                        <button class="btn-live" onclick="window.open('${project.liveDemoLink}', '_blank')">View Live</button>
+                        <button class="btn-code" onclick="window.open('${project.sourceCodeLink}', '_blank')"><i class="fab fa-github"></i> Source Code</button>
+                        <button class="btn-live" onclick="window.open('${project.liveDemoLink}', '_blank')"><i class="fa-solid fa-arrow-up-right-from-square"></i> View Live</button>
                     `;
 
                     projectsContainer.appendChild(projectElement);
@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
         .catch(error => {
             console.error('Error fetching the projects:', error);
             noResultsMessage.style.display = 'block';
-            noResultsMessage.textContent = 'Failed to load projects :(';
+            noResultsMessage.textContent = 'Failed to load projects 😕';
         });
 
     document.getElementById('searchInput').addEventListener('input', function(e) {

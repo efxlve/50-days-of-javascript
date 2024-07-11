@@ -121,7 +121,7 @@
     {
         "image": "assets/images/Calculator.jpeg",
         "title": "Calculator",
-        "description": "This is a simple calculator.",
+        "description": "A simple web-based calculator. It supports basic arithmetic operations (+, -, *, /) and includes functionality for decimal points. The calculator's interface is designed with a clear display for input and results, along with responsive buttons for ease of use. Users can perform calculations by clicking on the respective buttons and reset the calculator using the 'C' button.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Calculator",
         "liveDemoLink": "./projects/Calculator/index.html"
     },
@@ -285,5 +285,68 @@
         "description": "This simple device battery detector app allows users to view the battery level and charging status of their device.",
         "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Device%20Battery%20Detector",
         "liveDemoLink": "./projects/Device Battery Detector/index.html"
+    },
+    {
+        "image": "assets/images/Hangman Game.jpeg",
+        "title": "Hangman Game",
+        "description": "Hangman is a game where you guess a word by selecting its letters, with 6 chances to guess correctly. This project displays a hangman figure using SVG, generates random words, shows the word with correct and wrong letters, notifies if a letter is chosen twice, and displays a popup on win or lose. It also includes a play-again button to reset the game.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Hangman%20Game",
+        "liveDemoLink": "./projects/Hangman Game/index.html"
+    },
+    {
+        "image": "assets/images/XO Game.jpeg",
+        "title": "XO Game",
+        "description": "XO Game is a classic Tic-Tac-Toe implementation. Featuring a minimalist design with a dark theme, the game is fully responsive, adapting seamlessly to various screen sizes. Players take turns clicking on boxes to place their symbol (X or O), with automatic turn alternation. The game detects wins across rows, columns, and diagonals, highlighting the winning sequence. It also identifies draws when all boxes are filled without a winner. Players can restart the game anytime with a dedicated button, resetting the board. Interactive elements like hover effects on boxes and visual cues for wins enhance the gaming experience.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/XO%20Game",
+        "liveDemoLink": "./projects/XO Game/index.html"
+    },
+    {
+        "image": "assets/images/Aspect Ratio Calculator.jpeg",
+        "title": "Aspect Ratio Calculator",
+        "description": "This project is an Aspect Ratio calculator developed. Users can input width and height values to calculate the corresponding dimensions based on a specified aspect ratio. The interface updates instantly with each input change, providing real-time feedback. The project features a user-friendly design, styled with the Poppins font, and presented within a white container against a purple background.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Aspect%20Ratio%20Calculator",
+        "liveDemoLink": "./projects/Aspect Ratio Calculator/index.html"
+    },
+    {
+        "image": "assets/images/Crypto Price.jpeg",
+        "title": "Crypto Price",
+        "description": "This project is a Crypto Price application. The application fetches current USD prices and 24-hour change rates for popular cryptocurrencies like Bitcoin, Tether, Ethereum, Litecoin, Cardano, and Dogecoin using the CoinGecko API. Each cryptocurrency is displayed visually with its logo, name, current price, and percentage change over the last 24 hours. The application features a dark-themed interface styled with the Mukta font.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Crypto%20Price",
+        "liveDemoLink": "./projects/Crypto Price/index.html"
+    },
+    {
+        "image": "assets/images/QR Code Reader.jpeg",
+        "title": "QR Code Reader",
+        "description": "QR Code Reader is a web application that allows users to upload and scan QR codes directly in their browser. The interface is designed with a modern and minimalist style, featuring functionalities such as uploading QR code images, scanning them using an external API (qrserver.com), displaying the decoded text in a textarea, and providing options to copy the scanned text to the clipboard. The application's responsive design ensures usability across different devices and screen sizes, while its intuitive user interface simplifies the process of QR code scanning and text retrieval.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/QR%20Code%20Reader",
+        "liveDemoLink": "./projects/QR Code Reader/index.html"
+    },
+    {
+        "image": "assets/images/Lottery Spin Wheel.jpeg",
+        "title": "Lottery Spin Wheel",
+        "description": "Lottery Spin Wheel is a web application that simulates a spinning wheel with lottery-like functionality. Users can click the 'Spin' button to start the wheel, which spins through colorful segments representing different prize values. The wheel animation, powered by Chart.js, dynamically rotates and stops at a random angle, determining the prize value based on predefined angular ranges. The interface features a responsive design, ensuring compatibility across various devices, and provides real-time feedback on the final prize value. This project offers an engaging user experience with interactive spinning and immediate prize results.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Lottery%20Spin%20Wheel",
+        "liveDemoLink": "./projects/Lottery Spin Wheel/index.html"
+    },
+    {
+        "image": "assets/images/Simon Game.jpeg",
+        "title": "Simon Game",
+        "description": "Simon Game is a browser-based game. The game features colored buttons that light up in a random sequence. Players earn points by remembering and repeating this sequence correctly. To start the game, click the 'Start Game' button, and follow each correct sequence to score points. If you miss a sequence, the game ends, and your final score is displayed. This interactive game challenges your focus and memory skills.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Simon%20Game",
+        "liveDemoLink": "./projects/Simon Game/index.html"
+    },
+    {
+        "image": "assets/images/Recipe Guide.jpeg",
+        "title": "Recipe Guide",
+        "description": "Recipe Guide web application allows users to search for their favorite dishes and access detailed recipes. Users can simply enter the name of the dish to instantly get ingredients, preparation instructions, and origin details. The application fetches data from the MealDB API, ensuring up-to-date and accurate meal information.",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/Recipe%20Guide",
+        "liveDemoLink": "./projects/Recipe Guide/index.html"
+    },
+    {
+        "image": "assets/images/MineSweeper Game.jpeg",
+        "title": "MineSweeper Game",
+        "description": "A classic MineSweeper game. The grid consists of 10x10 cells, where the objective is to uncover all cells without hitting any mines. Clicking on a mine ends the game, revealing all mines in red. Use the 'Reset Game' button to start a new game at any time. Enjoy the challenge of uncovering the grid while avoiding the mines!",
+        "sourceCodeLink": "https://github.com/efxlve/50-days-of-javascript/tree/main/projects/MineSweeper%20Game",
+        "liveDemoLink": "./projects/MineSweeper Game/index.html"
     }
 ]

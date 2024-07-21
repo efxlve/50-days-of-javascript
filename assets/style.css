@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(to right, #ffffff, #afc5ff);
+    background: linear-gradient(to right, rgb(234, 120, 177), rgb(84, 114, 214));
     color: #ffffff;
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ body {
 header, footer {
     text-align: center;
     padding: 1em 0;
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
     color: #333333;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -33,7 +33,7 @@ main {
     border-radius: 12px;
     width: 50%;
     max-width: 250px;
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.4);
     color: #1f1f1f;
     outline: none;
     transition: box-shadow 0.3s ease, transform 0.3s ease;
@@ -51,11 +51,11 @@ main {
 }
 
 .project {
-    background-color: #ffffff; 
+    background-color: rgba(255, 255, 255, 0.3);
     border-radius: 12px;
     margin: 1em;
     padding: 1em;
-    width: 50%;
+    width: 55%;
     text-align: center;
     transition: box-shadow 0.2s ease, transform 0.3s ease;
 }
@@ -93,7 +93,7 @@ main {
 }
 
 .btn-code {
-    background-color: #9b30ff; 
+    background-color: #a448fa; 
     color: #ffffff;
 }
 
@@ -102,12 +102,12 @@ main {
 }
 
 .btn-live {
-    background-color: #49b7e2; 
+    background-color: #2aaadd; 
     color: #ffffff;
 }
 
 .btn-live:hover {
-    background-color: #4fa1f0; 
+    background-color: #006dd3; 
 }
 
 .social-links {
